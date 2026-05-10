@@ -258,7 +258,7 @@ body {
 .hero-bg-image {
     position: absolute;
     inset: 0;
-    background-image: url('https://images.unsplash.com/photo-1585704032915-c3400ca199e7?w=1600&q=80&fit=crop');
+    background-image: url('https://images.pexels.com/photos/6419128/pexels-photo-6419128.jpeg?auto=compress&cs=tinysrgb&w=1600');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -945,7 +945,7 @@ body {
 .cta-bg-image {
     position: absolute;
     inset: 0;
-    background-image: url('https://images.unsplash.com/photo-1585704032915-c3400ca199e7?w=1600&q=80&fit=crop');
+    background-image: url('https://images.pexels.com/photos/7859953/pexels-photo-7859953.jpeg?auto=compress&cs=tinysrgb&w=1600');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
